@@ -4,17 +4,31 @@ A curated list of awesome resources, repos, scripts, tools, queries and learning
 
 Inspired by Sindre Sorhus and his [awesome](https://github.com/sindresorhus/awesome) collection.
 
-- [Learning Resources](#learning-resources)
+## Contents
+
+- [Microsoft 365 Defender](#microsoft-365-defender)
+- [Azure AD](#azure-ad)
+- [Cloud App Security](#cloud-app-security)
+- [Defender for Endpoint](#defender-for-endpoint)
+- [Defender for Identity](#defender-for-identity)
+- [Defender for Office](#defender-for-office)
 - [Threat Hunting](#threat-hunting)
 
-## Learning Resources
+## Microsoft 365 Defender
 
 - [Become a Microsoft 365 Defender Ninja - October 2020](https://techcommunity.microsoft.com/t5/microsoft-365-defender/become-a-microsoft-365-defender-ninja/ba-p/1789376)
-- [Become a Microsoft 365 Defender Ninja - January 2021 Update] (<https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-january-2021-update/ba-p/2103073>)
+- [Become a Microsoft 365 Defender Ninja - January 2021 Update](<https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-january-2021-update/ba-p/2103073>)
+- [**LEARN**: Introduction to threat protection with Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-define/)
+- [**LEARN**: Mitigate incidents using Microsoft 365 Defender](https://docs.microsoft.com/en-gb/learn/modules/mitigate-incidents-microsoft-365-defender/)
+
+## Azure Active Directory
+
+- [**LEARN**: Protect your identities with Azure AD Identity Protection](https://docs.microsoft.com/en-gb/learn/modules/protect-identities-with-aad-idp/)
 
 ## Cloud App Security
 
-COMING SOON
+- [**LEARN**: Secure your cloud apps and services with Microsoft Cloud App Security](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-app-security/)
+- [**LEARN**: Respond to data loss prevention alerts using Microsoft 365](https://docs.microsoft.com/en-gb/learn/modules/respond-to-data-loss-prevention-alerts-microsoft-365/)
 
 ## Defender for Endpoint
 
@@ -36,15 +50,16 @@ COMING SOON
 - [**LEARN**: Perform evidence and entities investigations using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/perform-evidence-entities-investigations-microsoft-defender-for-endpoint/)
 - [**LEARN**: Configure and manage automation using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/configure-manage-automation-microsoft-defender-for-endpoint/)
 - [**LEARN**: Configure for alerts and detections in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/)
-- [LEARN: Utilize Threat and Vulnerability Management in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/)
+- [**LEARN**: Utilize Threat and Vulnerability Management in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/)
 
 ## Defender for Identity
 
-COMING SOON
+- [**LEARN**: Safeguard your environment with Microsoft Defender for Identity](https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/)
+- [**LEARN**: Manage insider risk in Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-compliance-insider-manage-insider-risk/)
 
 ## Defender for Office
 
-COMING SOON
+- [**LEARN**: Remediate risks with Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/learn/modules/m365-threat-remediate/)
 
 ## Threat Hunting
 
