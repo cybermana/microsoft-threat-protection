@@ -1,18 +1,17 @@
-# Welcome to the Cybermana Defender for Endpoint repo
-Collection of resources about Microsoft Defender for Endpoint
+# Welcome to the Cybermana Microsoft 365 Defender repo
+
+Collection of resources about Microsoft 365 Defender
 
 ![Cybermana](https://cybermana.net/wp-content/uploads/2020/09/logo_transparent_background-768x309.png)
 
 ## About this repo
 **Our mission** is to empower you with the latest insights and practical guidance on how to unlock the power of cyber resilience in your business.
 
-Microsoft Defender for Endpoint (formerly Microsoft Defender Advanced Threat Protection or MDATP) is one of the best cloud-delivered endpoint protection, detection and response platforms out there.  
+Microsoft 365 Defender is one of the best cloud-delivered platforms that enables you to protect, detect and respond to threats, risks and vulnerabilities that might impact your business.
 
 ## Repo Structure
 
-- [Awesome Defender for Endpoint](https://url): Inspired by Sindre Sorhus and his [awesome](https://github.com/sindresorhus/awesome) collection. This resource is the ultimate list of awesome resources, repos, scripts, tools, queries and learning resouces about Microsoft Defender for Endpoint.
-
-
+- [Awesome Microsoft 365 Defender](https://url): Inspired by Sindre Sorhus and his [awesome](https://github.com/sindresorhus/awesome) collection. This resource is the ultimate list of awesome resources, repos, scripts, tools, queries and learning resouces about Microsoft 365 Defender.
 
 ## Join the community
 
