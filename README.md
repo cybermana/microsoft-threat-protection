@@ -11,7 +11,13 @@ Microsoft 365 Defender is one of the best cloud-delivered platforms that enables
 
 ## Repo Structure
 
-- [Awesome Microsoft 365 Defender](https://url): Inspired by Sindre Sorhus and his [awesome](https://github.com/sindresorhus/awesome) collection. This resource is the ultimate list of awesome resources, repos, scripts, tools, queries and learning resouces about Microsoft 365 Defender.
+- [Awesome Microsoft 365 Defender](https://github.com/cybermana/microsoft-365-defender/blob/main/awesome-microsoft-365-defender.md): Inspired by Sindre Sorhus and his [awesome](https://github.com/sindresorhus/awesome) collection. This resource is the ultimate list of awesome resources, repos, scripts, tools, queries and learning resouces about Microsoft 365 Defender.
+- [Getting Started](https://url): Getting started guide for Microsoft 365 Defender (COMING SOON!)
+- [Defender for Office](https://url):
+- [Defender for Endpoint](https://url):
+- [Defender for Identity](https://url):
+- [Cloud App Security](https://url):
+- [Threat Hunting](https://url):
 
 ## Join the community
 
