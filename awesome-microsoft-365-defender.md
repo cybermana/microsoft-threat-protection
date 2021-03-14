@@ -1,6 +1,6 @@
-# Awesome Defender for Endpoint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Microsoft 365 Defender [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome resources, repos, scripts, tools, queries and learning resouces about Microsoft Defender for Endpoint.
+A curated list of awesome resources, repos, scripts, tools, queries and learning resouces about Microsoft 365 Defender.
 
 Inspired by Sindre Sorhus and his [awesome](https://github.com/sindresorhus/awesome) collection.
 
