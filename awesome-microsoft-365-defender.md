@@ -12,8 +12,6 @@ Inspired by Sindre Sorhus and his [awesome](https://github.com/sindresorhus/awes
 - [Become a Microsoft 365 Defender Ninja - October 2020](https://techcommunity.microsoft.com/t5/microsoft-365-defender/become-a-microsoft-365-defender-ninja/ba-p/1789376)
 - [Become a Microsoft 365 Defender Ninja - January 2021 Update] (<https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-january-2021-update/ba-p/2103073>)
 
-
-
 ## Cloud App Security
 
 COMING SOON
@@ -33,7 +31,7 @@ COMING SOON
 - [LEARN: Deploy the Microsoft Defender for Endpoint Environment](https://docs.microsoft.com/en-gb/learn/modules/deploy-microsoft-defender-for-endpoints-environment/)
 - [LEARN: Implement Windows 10 security enhancements with Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/implement-windows-10-security-enhancements-with-microsoft-defender-for-endpoint/)
 - [LEARN: Manage alerts and incidents in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/manage-alerts-incidents-microsoft-defender-for-endpoints/)
-- [LEARN: Perform device investigations in Microsoft Defender for Endpoint] (https://docs.microsoft.com/en-gb/learn/modules/perform-device-investigations-microsoft-defender-for-endpoints/)
+- [LEARN: Perform device investigations in Microsoft Defender for Endpoint] (<https://docs.microsoft.com/en-gb/learn/modules/perform-device-investigations-microsoft-defender-for-endpoints/>)
 - [Perform actions on a device using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/perform-actions-device-microsoft-defender-for-endpoint/)
 - [LEARN: Perform evidence and entities investigations using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/perform-evidence-entities-investigations-microsoft-defender-for-endpoint/)
 - [LEARN: Configure and manage automation using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/configure-manage-automation-microsoft-defender-for-endpoint/)

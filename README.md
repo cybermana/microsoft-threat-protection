@@ -5,6 +5,7 @@ Collection of resources about Microsoft 365 Defender
 ![Cybermana](https://cybermana.net/wp-content/uploads/2020/09/logo_transparent_background-768x309.png)
 
 ## About this repo
+
 **Our mission** is to empower you with the latest insights and practical guidance on how to unlock the power of cyber resilience in your business.
 
 Microsoft 365 Defender is one of the best cloud-delivered platforms that enables you to protect, detect and respond to threats, risks and vulnerabilities that might impact your business.
