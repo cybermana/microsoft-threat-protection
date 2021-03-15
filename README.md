@@ -1,4 +1,4 @@
-# Welcome to the Cybermana Microsoft 365 Defender repo
+# Welcome to the Cybermana Microsoft Threat Protection repo
 
 Collection of resources about Microsoft 365 Defender
 
