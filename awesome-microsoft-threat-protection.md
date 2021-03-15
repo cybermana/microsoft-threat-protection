@@ -40,6 +40,7 @@ Imagine having visibility into threats across all your resources, AI that stitch
   - [LEARN Microsoft Defender for Endpoint](#learn-microsoft-defender-for-endpoint)
   - [LEARN Microsoft Defender for Identity](#learn-microsoft-defender-for-identity)
   - [LEARN Microsoft Defender for Office](#learn-microsoft-defender-for-office)
+  - [LEARN Threat Hunting](#learn-threat-hunting)
 
 ## Important Resources
 
@@ -177,20 +178,26 @@ COMING SOON
 
 - [Become a Microsoft 365 Defender Ninja - October 2020](https://techcommunity.microsoft.com/t5/microsoft-365-defender/become-a-microsoft-365-defender-ninja/ba-p/1789376)
 - [Become a Microsoft 365 Defender Ninja - January 2021 Update](<https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-january-2021-update/ba-p/2103073>)
-- [**LEARN**: Introduction to threat protection with Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-define/)
-- [**LEARN**: Mitigate incidents using Microsoft 365 Defender](https://docs.microsoft.com/en-gb/learn/modules/mitigate-incidents-microsoft-365-defender/)
+- [Introduction to threat protection with Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-define/)
+- [Mitigate incidents using Microsoft 365 Defender](https://docs.microsoft.com/en-gb/learn/modules/mitigate-incidents-microsoft-365-defender/)
 
 #### LEARN Azure Active Directory
 
-- [**LEARN**: Protect your identities with Azure AD Identity Protection](https://docs.microsoft.com/en-gb/learn/modules/protect-identities-with-aad-idp/)
+- [Define identity and access management in Azure Active Directory](https://docs.microsoft.com/en-gb/learn/modules/m365-identity-overview/)
+- [Simplify access and identity provisioning with Azure Active Directory](https://docs.microsoft.com/en-gb/learn/modules/m365-identity-provisioning/)
+- [Strengthen authentication (conditional access) with Azure Active Directory](https://docs.microsoft.com/en-gb/learn/modules/m365-identity-authentication/)
+- [Secure administrator accounts in Azure Active Directory](https://docs.microsoft.com/en-gb/learn/modules/m365-identity-secure-administrators/)
+- [Enable identity protection in Azure Active Directory](https://docs.microsoft.com/en-gb/learn/modules/m365-identity-cultural-shift/)
+- [Protect your identities with Azure AD Identity Protection](https://docs.microsoft.com/en-gb/learn/modules/protect-identities-with-aad-idp/)
+- [Embrace Zero Trust with Azure Active Directory](https://docs.microsoft.com/en-gb/learn/modules/m365-identity-zero-trust/)
 
 #### LEARN Azure Defender
 
-- [**LEARN**: Plan for cloud workload protections using Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/what-is-azure-defender/)
-- [**LEARN**: Explain cloud workload protections in Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/understand-azure-defender-cloud-workload-protection/)
-- [**LEARN**: Connect Azure assets to Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/connect-azure-assets-to-azure-defender/)
-- [**LEARN**: Connect non-Azure resources to Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/connect-non-azure-machines-to-azure-defender/)
-- [**LEARN**: Remediate security alerts using Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/remediate-azure-defender-security-alerts/)
+- [Plan for cloud workload protections using Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/what-is-azure-defender/)
+- [Explain cloud workload protections in Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/understand-azure-defender-cloud-workload-protection/)
+- [Connect Azure assets to Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/connect-azure-assets-to-azure-defender/)
+- [Connect non-Azure resources to Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/connect-non-azure-machines-to-azure-defender/)
+- [Remediate security alerts using Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/remediate-azure-defender-security-alerts/)
 
 #### LEARN Azure Security Center
 
@@ -198,31 +205,57 @@ COMING SOON
 
 #### LEARN Azure Sentinel
 
-COMING SOON
+- [Introduction to Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/intro-to-azure-sentinel/)
+- [Create and manage Azure Sentinel workspaces](https://docs.microsoft.com/en-gb/learn/modules/create-manage-azure-sentinel-workspaces/)
+- [Query logs in Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/query-logs-azure-sentinel/)
+- [Use watchlists in Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/use-watchlists-azure-sentinel/)
+- [Utilize threat intelligence in Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/utilize-threat-intelligence-azure-sentinel/)
+- [Connect data to Azure Sentinel using data connectors](https://docs.microsoft.com/en-gb/learn/modules/connect-data-to-azure-sentinel-with-data-connectors/)
+- [Connect Microsoft services to Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/connect-microsoft-services-to-azure-sentinel/)
+- [Connect Microsoft 365 Defender to Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/connect-microsoft-defender-365-to-azure-sentinel/)
+- [Connect Windows hosts to Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/connect-windows-hosts-to-azure-sentinel/)
+- [Connect Common Event Format logs to Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/connect-common-event-format-logs-to-azure-sentinel/)
+- [Connect syslog data sources to Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/connect-syslog-data-sources-to-azure-sentinel/)
+- [Connect threat indicators to Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/connect-threat-indicators-to-azure-sentinel/)
+- [Threat detection with Azure Sentinel analytics](https://docs.microsoft.com/en-gb/learn/modules/analyze-data-in-sentinel/)
+- [Threat response with Azure Sentinel playbooks](https://docs.microsoft.com/en-gb/learn/modules/threat-response-sentinel-playbooks/)
+- [Security incident management in Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/incident-management-sentinel/)
+- [Use entity behavior analytics in Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/use-entity-behavior-analytics-azure-sentinel/)
+- [Query, visualize, and monitor data in Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/query-data-sentinel/)
 
 #### LEARN Microsoft Cloud App Security
 
-- [**LEARN**: Secure your cloud apps and services with Microsoft Cloud App Security](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-app-security/)
-- [**LEARN**: Respond to data loss prevention alerts using Microsoft 365](https://docs.microsoft.com/en-gb/learn/modules/respond-to-data-loss-prevention-alerts-microsoft-365/)
+- [Secure your cloud apps and services with Microsoft Cloud App Security](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-app-security/)
+- [Respond to data loss prevention alerts using Microsoft 365](https://docs.microsoft.com/en-gb/learn/modules/respond-to-data-loss-prevention-alerts-microsoft-365/)
 
 #### LEARN Microsoft Defender for Endpoint
 
-- [**LEARN**: Protect against threats with Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-protect/)
-- [**LEARN**: Deploy the Microsoft Defender for Endpoint Environment](https://docs.microsoft.com/en-gb/learn/modules/deploy-microsoft-defender-for-endpoints-environment/)
-- [**LEARN**: Implement Windows 10 security enhancements with Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/implement-windows-10-security-enhancements-with-microsoft-defender-for-endpoint/)
-- [**LEARN**: Manage alerts and incidents in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/manage-alerts-incidents-microsoft-defender-for-endpoints/)
-- [**LEARN**: Perform device investigations in Microsoft Defender for Endpoint](<https://docs.microsoft.com/en-gb/learn/modules/perform-device-investigations-microsoft-defender-for-endpoints/>)
-- [**LEARN**: Perform actions on a device using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/perform-actions-device-microsoft-defender-for-endpoint/)
-- [**LEARN**: Perform evidence and entities investigations using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/perform-evidence-entities-investigations-microsoft-defender-for-endpoint/)
-- [**LEARN**: Configure and manage automation using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/configure-manage-automation-microsoft-defender-for-endpoint/)
-- [**LEARN**: Configure for alerts and detections in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/)
-- [**LEARN**: Utilize Threat and Vulnerability Management in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/)
+- [Protect against threats with Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-protect/)
+- [Deploy the Microsoft Defender for Endpoint Environment](https://docs.microsoft.com/en-gb/learn/modules/deploy-microsoft-defender-for-endpoints-environment/)
+- [Implement Windows 10 security enhancements with Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/implement-windows-10-security-enhancements-with-microsoft-defender-for-endpoint/)
+- [Manage alerts and incidents in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/manage-alerts-incidents-microsoft-defender-for-endpoints/)
+- [Perform device investigations in Microsoft Defender for Endpoint](<https://docs.microsoft.com/en-gb/learn/modules/perform-device-investigations-microsoft-defender-for-endpoints/>)
+- [Perform actions on a device using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/perform-actions-device-microsoft-defender-for-endpoint/)
+- [Perform evidence and entities investigations using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/perform-evidence-entities-investigations-microsoft-defender-for-endpoint/)
+- [Configure and manage automation using Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/configure-manage-automation-microsoft-defender-for-endpoint/)
+- [Configure for alerts and detections in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/)
+- [Utilize Threat and Vulnerability Management in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/)
 
 #### LEARN Microsoft Defender for Identity
 
-- [**LEARN**: Safeguard your environment with Microsoft Defender for Identity](https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/)
-- [**LEARN**: Manage insider risk in Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-compliance-insider-manage-insider-risk/)
+- [Safeguard your environment with Microsoft Defender for Identity](https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/)
+- [Manage insider risk in Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-compliance-insider-manage-insider-risk/)
 
 #### LEARN Microsoft Defender for Office
 
-- [**LEARN**: Remediate risks with Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/learn/modules/m365-threat-remediate/)
+- [Remediate risks with Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/learn/modules/m365-threat-remediate/)
+
+#### LEARN Threat Hunting
+
+- [Construct KQL statements for Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/construct-kusto-query-language-statements/)
+- [Analyze query results using KQL](https://docs.microsoft.com/en-gb/learn/modules/analyze-results-kusto-query-language/)
+- [Build multi-table statements using KQL](https://docs.microsoft.com/en-gb/learn/modules/build-multi-table-statements-kusto-query-language/)
+- [Work with data in Azure Sentinel using Kusto Query Language](https://docs.microsoft.com/en-gb/learn/modules/work-with-data-kusto-query-language/)
+- [Explain threat hunting concepts in Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/what-is-threat-hunting-azure-sentinel/)
+- [Threat hunting with Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/hunt-threats-sentinel/)
+- [Hunt for threats using notebooks in Azure Sentinel](https://docs.microsoft.com/en-gb/learn/modules/perform-threat-hunting-sentinel-with-notebooks/)
