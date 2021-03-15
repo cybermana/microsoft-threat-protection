@@ -30,6 +30,16 @@ Imagine having visibility into threats across all your resources, AI that stitch
   - [Getting Started](#getting-started)
   - [Kusto Query Language (KQL)](#kusto-query-language)
   - [Threat Hunting with Microsoft 365 Defender](#threat-hunting-with-microsoft-365-defender)
+- [Communities](#communities)
+- [Learning Resources](#learning-resources)
+  - [LEARN Azure Active Directory](#learn-azure-active-directory)
+  - [LEARN Azure Defender](#learn-azure-defender)
+  - [LEARN Azure Security Center](#learn-azure-security-center)
+  - [LEARN Azure Sentinel](#learn-azure-sentinel)
+  - [LEARN Microsoft Cloud App Security](#learn-microsoft-cloud-app-security)
+  - [LEARN Microsoft Defender for Endpoint](#learn-microsoft-defender-for-endpoint)
+  - [LEARN Microsoft Defender for Identity](#learn-microsoft-defender-for-identity)
+  - [LEARN Microsoft Defender for Office](#learn-microsoft-defender-for-office)
 
 ## Important Resources
 
@@ -161,23 +171,20 @@ COMING SOON
 - [Tech Community: Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bd-p/MicrosoftDefenderATP)
 - [Tech Community: Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/bd-p/AzureAdvancedThreatProtection)
 - [Tech Community: Microsoft Defender for Office](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bd-p/MicrosoftDefenderforOffice365)
+- [Tech Community: Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/bd-p/MicrosoftThreatProtection)
 
 ## Learning Resources
 
 - [Become a Microsoft 365 Defender Ninja - October 2020](https://techcommunity.microsoft.com/t5/microsoft-365-defender/become-a-microsoft-365-defender-ninja/ba-p/1789376)
 - [Become a Microsoft 365 Defender Ninja - January 2021 Update](<https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-january-2021-update/ba-p/2103073>)
-- [Tech Community: Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/bd-p/MicrosoftThreatProtection)
-
-#### Microsoft Threat Protection
-
 - [**LEARN**: Introduction to threat protection with Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-define/)
 - [**LEARN**: Mitigate incidents using Microsoft 365 Defender](https://docs.microsoft.com/en-gb/learn/modules/mitigate-incidents-microsoft-365-defender/)
 
-#### Azure Active Directory
+#### LEARN Azure Active Directory
 
 - [**LEARN**: Protect your identities with Azure AD Identity Protection](https://docs.microsoft.com/en-gb/learn/modules/protect-identities-with-aad-idp/)
 
-#### Azure Defender
+#### LEARN Azure Defender
 
 - [**LEARN**: Plan for cloud workload protections using Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/what-is-azure-defender/)
 - [**LEARN**: Explain cloud workload protections in Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/understand-azure-defender-cloud-workload-protection/)
@@ -185,20 +192,20 @@ COMING SOON
 - [**LEARN**: Connect non-Azure resources to Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/connect-non-azure-machines-to-azure-defender/)
 - [**LEARN**: Remediate security alerts using Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/remediate-azure-defender-security-alerts/)
 
-#### Azure Security Center
+#### LEARN Azure Security Center
 
 COMING SOON
 
-#### Azure Sentinel
+#### LEARN Azure Sentinel
 
 COMING SOON
 
-#### Microsoft Cloud App Security
+#### LEARN Microsoft Cloud App Security
 
 - [**LEARN**: Secure your cloud apps and services with Microsoft Cloud App Security](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-app-security/)
 - [**LEARN**: Respond to data loss prevention alerts using Microsoft 365](https://docs.microsoft.com/en-gb/learn/modules/respond-to-data-loss-prevention-alerts-microsoft-365/)
 
-#### Microsoft Defender for Endpoint
+#### LEARN Microsoft Defender for Endpoint
 
 - [**LEARN**: Protect against threats with Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-protect/)
 - [**LEARN**: Deploy the Microsoft Defender for Endpoint Environment](https://docs.microsoft.com/en-gb/learn/modules/deploy-microsoft-defender-for-endpoints-environment/)
@@ -211,11 +218,11 @@ COMING SOON
 - [**LEARN**: Configure for alerts and detections in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/)
 - [**LEARN**: Utilize Threat and Vulnerability Management in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-gb/learn/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/)
 
-#### Microsoft Defender for Identity
+#### LEARN Microsoft Defender for Identity
 
 - [**LEARN**: Safeguard your environment with Microsoft Defender for Identity](https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/)
 - [**LEARN**: Manage insider risk in Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-compliance-insider-manage-insider-risk/)
 
-#### Microsoft Defender for Office
+#### LEARN Microsoft Defender for Office
 
 - [**LEARN**: Remediate risks with Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/learn/modules/m365-threat-remediate/)
