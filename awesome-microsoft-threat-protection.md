@@ -114,7 +114,8 @@ WORK IN PROGRESS
 
 #### Azure Sentinel
 
-WORK IN PROGRESS
+- [Introduction to Azure Sentinel](https://docs.microsoft.com/en-gb/azure/sentinel/overview)
+- [What's new in Azure Sentinel?](https://docs.microsoft.com/en-gb/azure/sentinel/whats-new)
 
 ## Microsoft 365
 
@@ -168,6 +169,7 @@ COMING SOON
 ## Communities
 
 - [Tech Community: Azure Security Center](https://techcommunity.microsoft.com/t5/azure-security-center/bg-p/AzureSecurityCenterBlog)
+- [Tech Community: Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/bg-p/AzureSentinelBlog)
 - [Tech Community: Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/microsoft-cloud-app-security/bd-p/MicrosoftCloudAppSecurity)
 - [Tech Community: Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bd-p/MicrosoftDefenderATP)
 - [Tech Community: Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/bd-p/AzureAdvancedThreatProtection)
